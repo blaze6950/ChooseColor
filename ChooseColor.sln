@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseColor", "ChooseColor\ChooseColor.csproj", "{241301FE-5CA6-493B-8743-73CC9B3FF67D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseColorExample", "ChooseColorExample\ChooseColorExample.csproj", "{342E26D6-3BAE-4173-832B-77BCCB942E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241301FE-5CA6-493B-8743-73CC9B3FF67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241301FE-5CA6-493B-8743-73CC9B3FF67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241301FE-5CA6-493B-8743-73CC9B3FF67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241301FE-5CA6-493B-8743-73CC9B3FF67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342E26D6-3BAE-4173-832B-77BCCB942E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342E26D6-3BAE-4173-832B-77BCCB942E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342E26D6-3BAE-4173-832B-77BCCB942E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342E26D6-3BAE-4173-832B-77BCCB942E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5547DF0-36DD-4BFC-A3E8-E79294F6B780}
+	EndGlobalSection
+EndGlobal
